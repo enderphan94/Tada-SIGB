@@ -1,8 +1,6 @@
 # Installation
 
-Just simple install:
-
-    `$ git clone https://github.com/enderphan94/Detect-Malicious-Files---Ruby`
++ Just simple install:
 
     `$ ./intall`
 
