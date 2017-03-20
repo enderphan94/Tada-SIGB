@@ -2,10 +2,16 @@
 
 Just simple install:
 
+    `$ git clone https://github.com/enderphan94/Detect-Malicious-Files---Ruby`
+
     `$ ./intall`
+
     `$ sudo perl -MCPAN -e shell`
+
     `cpan[1]> install XML::Writer`
+
     `cpan[1]> install String::Random`
+
     `cpan[1]> quit`
 
 # Functions:
