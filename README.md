@@ -2,9 +2,9 @@
 
 + Just simple install:
 
-    `$ ./intall`
+    `./intall`
 
-    `$ sudo perl -MCPAN -e shell`
+    `sudo perl -MCPAN -e shell`
 
     `cpan[1]> install XML::Writer`
 
