@@ -1,8 +1,8 @@
-## Installation
+# Installation
 
 + Just simple install:
 
-    `./intall`
+    `./install`
 
     `sudo perl -MCPAN -e shell`
 
@@ -67,3 +67,13 @@ This does not perform exploitation and does not scan the whole internet indiscri
 Because it uses DNS primarily you will often find mis-configured networks that leak internal address space. That's especially useful in targeted malware
 
 ## Option 6: Nmap
+
+1) Scan fewer ports than the default scan
+
+2) Scan 100 most common ports (Fast)
+
+3) Detect OS and Services 
+
+4) More aggressive Service Detection
+
+5) prohibits the dynamic scan delay from exceeding 10 ms for TCP ports
