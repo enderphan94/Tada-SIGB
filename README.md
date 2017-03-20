@@ -56,7 +56,7 @@ Use the specified interface for outgoing packets
 8) Perform reverse lookups on netranges
    ( C class or/and whois netranges) (threaded).
 
-## Option 5: Fierce.pl
+## Option 5: Fierce
 
 Fierce is a semi-lightweight scanner that helps locate non-contiguous IP space and hostnames against specified domains.
 
