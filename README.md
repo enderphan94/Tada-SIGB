@@ -1,10 +1,10 @@
-## Installation
+# Installation
 
 + Just simple install:
 
-    `$ ./intall`
+    `./install`
 
-    `$ sudo perl -MCPAN -e shell`
+    `sudo perl -MCPAN -e shell`
 
     `cpan[1]> install XML::Writer`
 
@@ -56,7 +56,7 @@ Use the specified interface for outgoing packets
 8) Perform reverse lookups on netranges
    ( C class or/and whois netranges) (threaded).
 
-## Option 5: Fierce.pl
+## Option 5: Fierce
 
 Fierce is a semi-lightweight scanner that helps locate non-contiguous IP space and hostnames against specified domains.
 
@@ -67,3 +67,13 @@ This does not perform exploitation and does not scan the whole internet indiscri
 Because it uses DNS primarily you will often find mis-configured networks that leak internal address space. That's especially useful in targeted malware
 
 ## Option 6: Nmap
+
+1) Scan fewer ports than the default scan
+
+2) Scan 100 most common ports (Fast)
+
+3) Detect OS and Services 
+
+4) More aggressive Service Detection
+
+5) prohibits the dynamic scan delay from exceeding 10 ms for TCP ports
