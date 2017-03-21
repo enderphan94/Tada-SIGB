@@ -238,7 +238,7 @@ if ($dns_server) {
 
 # DNS server gave us everything so we don't have to guess
 if (@zone) {
-  output("\nWhoah, it worked - misconfigured DNS server found:");
+  output("\nMisconfigured DNS has found");
   output($_->string) for (@zone);
   quit_early("\nThere isn't much point continuing, you have everything.\n"
              . "Have a nice day.");
