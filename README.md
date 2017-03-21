@@ -77,3 +77,9 @@ Because it uses DNS primarily you will often find mis-configured networks that l
 4) More aggressive Service Detection
 
 5) prohibits the dynamic scan delay from exceeding 10 ms for TCP ports
+
+## Option 7: Gather URLs
+
+List all urls are available on the website
+
+## Option 8: Scan all the options listed
