@@ -2,3 +2,4 @@
 
 sudo apt install whois
 sudo apt install tcptraceroute
+sudo apt install dnstracer
