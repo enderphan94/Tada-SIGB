@@ -1,3 +1,4 @@
+# Tada - SIGB ( Smart Information Gathering Bash )
 # Installation
 
 + Just simple install:
